@@ -17,6 +17,7 @@ public class GitTest {
         System.out.println("ggggg");
         System.out.println("5555555");
         System.out.println("hot-fix!!!");
+        System.out.println("ssh commit");
 
     }
 }
